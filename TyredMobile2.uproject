@@ -10,12 +10,6 @@
 			"LoadingPhase": "Default"
 		}
 	],
-	"Plugins": [
-		{
-			"Name": "OnlineSubsystemFacebook",
-			"Enabled": true
-		}
-	],
 	"TargetPlatforms": [
 		"Android"
 	]
